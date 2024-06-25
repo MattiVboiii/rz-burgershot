@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Job = 'police'
+Config.Job = 'burgershot'
 Config.ProgressbarTime = 5000
 Config.Dirt = 10
 Config.MoneyType = "cash"
@@ -28,18 +28,18 @@ Config.ItemList = { --Please write packable items here
 ---------Burger Shot Job Coords---------
 
 Config.Duty = vector3(-1194.72, -900.11, 14.50)
-Config.Tray =  vector3(-1193.90, -894.37, 14.0) 
-Config.Tray2 =  vector3(-1195.26, -892.42, 14.0)
-Config.Storge = vector3(-1197.58, -893.87, 14.0) 
-Config.Fridge = vector3(-1203.42, -895.9, 14.0)
-Config.BurgerStation = vector3(-1200.56, -900.9, 14.0)
-Config.Fries = vector3(-1201.52, -899.06, 14.0)
-Config.Drink =  vector3(-1199.57, -895.55, 14.0)
-Config.Garage = vector3(-1165.66, -887.96, 14.13) 
-Config.MeatStation = vector3(-1202.69, -897.46, 14.0)
-Config.PackageStation = vector3(-1196.64, -895.82, 14.0)
-Config.Clean = vector3(-1197.02, -902.17, 14.0)
-Config.SellItem = vector3(-1178.17, -891.55, 13.50)
+Config.Tray =  vector3(-1192.86, -893.76, 14.0) 
+Config.Tray2 =  vector3(-1194.75, -893.23, 14.0)
+Config.Storge = vector3(-1195.81, -895.99, 14.21)
+Config.Fridge = vector3(-1203.49, -896.21, 14.29)
+Config.BurgerStation = vector3(-1200.81, -895.03, 13.8)
+Config.Fries = vector3(-1196.11, -900.02, 13.8)
+Config.Drink =  vector3(-1191.02, -898.73, 14.35)
+Config.Garage = vector3(-1200.65, -909.94, 13.02)
+Config.MeatStation = vector3(-1195.34, -897.31, 13.8)
+Config.PackageStation = vector3(-1201.2, -895.78, 13.83)
+Config.Clean = vector3(-1192.1, -899.97, 13.7)
+Config.SellItem = vector3(-1187.93, -901.09, 13.83)
 Config.Finish = vector3(-1164.57, -891.6, 14.1)
 
 ---------Burger Shot Job Package Sell Cord---------
