@@ -1,18 +1,12 @@
-![image](https://cdn.discordapp.com/attachments/1186357096216801381/1205589739390902272/burgershot.png?ex=65d8ebf0&is=65c676f0&hm=8128f9f5f379bcacaf86d217231059a8aa1734ac0cbd51754da92f2bcb36f97c&)
-
 # rz-burgershot
 - Detailed Burger Shot Job [QBCORE]
-- New QBCore
+- Old QBCore
 
 ##
 - Hello, if you want to support me you can tip me. Have a nice day! ➝ https://rzstore.tebex.io/package/6126329
 
-## Video Showcase
-- https://youtu.be/MHwQo5yg-Kw
-## Discord
-- https://discord.gg/zertxMj7Yh
-
 ## Update
+- NEW INTERIOR
 - NPCs pack sales codes have been edited (it now works with target and a blip appears at the customer location) and rebuilt perfectly 
 - All operations can be done with target
 - Updated the setup lines
@@ -36,10 +30,21 @@
 - Script using full qb-target
 - To pack menus
 
+## Image Showcase
+![image](https://github.com/MattiVboiii/rz-burgershot/assets/57048210/669490d3-7e4e-4a83-9ee7-3a64067e350f)
+![image](https://github.com/MattiVboiii/rz-burgershot/assets/57048210/1798ebe2-3e9d-41c6-8c0e-1bce068be5ff)
+![image](https://github.com/MattiVboiii/rz-burgershot/assets/57048210/3dc62e6f-f249-4839-992b-0a31a53d14a8)
+![image](https://github.com/MattiVboiii/rz-burgershot/assets/57048210/69e994d0-4ffa-4944-a79b-ef057aab6cbd)
+![image](https://github.com/MattiVboiii/rz-burgershot/assets/57048210/97fc0a18-63e8-4c46-ac2f-d7424afd60bf)
+![image](https://github.com/MattiVboiii/rz-burgershot/assets/57048210/1139ec52-4a16-4840-88b5-d5625b323fa4)
+![image](https://github.com/MattiVboiii/rz-burgershot/assets/57048210/c6429552-359d-4dfb-b6f1-563be3d893cb)
+![image](https://github.com/MattiVboiii/rz-burgershot/assets/57048210/3de16702-c825-4408-9d4e-7bc93f099209)
+![image](https://github.com/MattiVboiii/rz-burgershot/assets/57048210/5f257e9c-9435-464b-9a29-6831b59f9edd)
+
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-target](https://github.com/qbcore-framework/qb-target)
-- [Burger-Shot-Ymap](https://www.gta5-mods.com/maps/burgershot-remastered-gta-v-interior-mod-gtadps)
+- [MLO Burgershot 2023](https://www.gta5-mods.com/maps/mlo-burgershot-2023-add-on-sp-fivem)
 
 ## Installation
 
@@ -475,7 +480,7 @@ burgershot_coffeeemptyglass = {
     shouldClose = true,
     combinable = nil,
     description = 'Coffee Empty Glass'
-}
+},
 
 burgershot_frozenmeat = {
     name = 'burgershot_frozenmeat',
@@ -724,19 +729,3 @@ ensure burgershot-van
 ```
 ensure rz-burgershot
 ```
-
-## Image Showcase
-![image](https://cdn.discordapp.com/attachments/352733374235803648/1064647070939623444/duty.png)
-![image](https://cdn.discordapp.com/attachments/352733374235803648/1064647082117447732/WASHhands.png)
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647069534523613/CREATEBURGER.png)
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647072214691941/FRIES.png)
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647082595590204/meat.png)
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647071375839413/fridge.png)
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647068569833614/ICECREAM.png)
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647071828807761/fridgeitems.png)
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647070507602000/DRINKMENU.png)
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647083027599451/packagemenu.png)
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647070071410718/DELIVERY.png)
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647069018640384/cars.png)
-
-
